@@ -4,7 +4,7 @@ Learning React all in one
 
 ## Examples
 
-### [Chuck Norris Quotes](chuck-norris-quotes)
+### [Chuck Norris Quotes](examples/chuck-norris-quotes/README.md)
 
 
 ![App Preview](https://user-images.githubusercontent.com/5110813/71784751-2f95de80-2ff7-11ea-9398-ab8f706b3e82.png)

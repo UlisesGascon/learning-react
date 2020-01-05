@@ -7,7 +7,7 @@ Learning React all in one
 ### Chuck Norris Quotes
 
 
-![App Preview](https://user-images.githubusercontent.com/5110813/71784751-2f95de80-2ff7-11ea-9398-ab8f706b3e82.png")
+![App Preview](https://user-images.githubusercontent.com/5110813/71784751-2f95de80-2ff7-11ea-9398-ab8f706b3e82.png)
 
 > A simple AJAX request to [chucknorris.io](https://chucknorris.io) and render the Quote. Every time the component is rendered it will request a new Quote.
 

@@ -2,11 +2,6 @@
   text-align: center;
 }
 
-.App-pic {
-  height: 40vmin;
-  pointer-events: none;
-}
-
 .App-header {
   background-color: #000;
   min-height: 100vh;
@@ -17,14 +12,4 @@
   font-size: calc(10px + 3vmin);
   color: #fff;
   font-family: 'Acme', sans-serif;
-}
-
-.App-link {
-  color: #61dafb;
-  font-size: calc(10px + 1vmin);
-  font-family: "Arial"
-}
-
-.App-error {
-  color: red
 }

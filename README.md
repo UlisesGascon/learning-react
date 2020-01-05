@@ -14,7 +14,7 @@ Learning React all in one
 **🎉 Features**
 - Use Hooks
 - Components in folders
-- Simple Ajax call (Err, loading, data...) to 
+- Simple Ajax call (Err, loading, data...) to [chucknorris.io](https://chucknorris.io)
 - Simple CSS in separate folders with Classes
 - Import Font from Google Fonts (Non blocking)
 

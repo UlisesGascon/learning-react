@@ -1,0 +1,10 @@
+.Quote-link {
+    color: #61dafb;
+    font-size: calc(10px + 1vmin);
+    font-family: "Arial"
+}
+
+.Quote-pic {
+    height: 40vmin;
+    pointer-events: none;
+}

@@ -1,6 +1,14 @@
 import React from 'react';
+import WebFont from 'webfontloader';
 import chuckPic from './chuck_norris.png';
 import './App.css';
+
+
+WebFont.load({
+  google: {
+    families: ['Acme:400', 'sans-serif']
+  }
+});
 
 function App() {
   return (
@@ -8,15 +16,15 @@ function App() {
       <header className="App-header">
         <img src={chuckPic} className="App-pic" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Chuck Norris can make you cry with his unbelievable armpit rendition of 'The Star Spangled Banner'.
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://chucknorris.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Quote by chucknorris.io
         </a>
       </header>
     </div>
